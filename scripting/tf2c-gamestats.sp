@@ -1,6 +1,6 @@
 /*
  * tf2c-gamestats
- * Copyright (C) 2021  Ian
+ * Copyright (C) 2025 BitsE9
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -25,10 +25,10 @@
 
 public Plugin myinfo = {
 	name = "TF2C GameStats",
-	author = "Ian",
+	author = "BitsE9",
 	description = "API for interacting with GameStats in Team Fortress 2 Classic.",
-	version = "1.3.0",
-	url = "https://github.com/IanE9/tf2c-gamestats"
+	version = "1.3.1",
+	url = "https://github.com/BitsE9/tf2c-gamestats"
 };
 
 int g_Offset_m_aPlayerStats;

@@ -1,6 +1,6 @@
 /*
  * tf2c-gamestats
- * Copyright (C) 2021  Ian
+ * Copyright (C) 2025  BitsE9
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -28,10 +28,10 @@ int g_ClientAccumulatedTeamKills[MAXPLAYERS];
 
 public Plugin myinfo = {
 	name = "TF2C GameStats Test",
-	author = "Ian",
+	author = "BitsE9",
 	description = "Test for TF2C-GameStats.",
-	version = "1.0.0",
-	url = "https://github.com/IanE9/tf2c-gamestats"
+	version = "1.0.1",
+	url = "https://github.com/BitsE9/tf2c-gamestats"
 };
 
 public void OnPluginStart() {
